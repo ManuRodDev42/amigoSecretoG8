@@ -5,10 +5,10 @@
 ---
 
 ## Caracteristicas Principales
--**Asignación automática**: El sistema asigna automáticamente los amigos secretos, evitando conflictos y asegurando que nadie se quede por fuera.
--**Interfaz intuitiva**: Diseño amigable y fácil de usar para todos los participantes.
--**Dinámico y responsivo**: Funciona en cualquier dispositivo (móvil, tablet, escritotio).
--**Sin bbackend**: Todo el procesamiento se realiza en el navegador, sin necesidad de servidores externos.
+- **Asignación automática**: El sistema asigna automáticamente los amigos secretos, evitando conflictos y asegurando que nadie se quede por fuera.
+- **Interfaz intuitiva**: Diseño amigable y fácil de usar para todos los participantes.
+- **Dinámico y responsivo**: Funciona en cualquier dispositivo (móvil, tablet, escritotio).
+- **Sin backend**: Todo el procesamiento se realiza en el navegador, sin necesidad de servidores externos.
 
 ---
 
@@ -23,8 +23,8 @@ Puedes probar el proyecto directamente aquí:[Enlace a GitHub Page o Demo](https
 
 Para ejecutar este proyecto, solo necesitas:
 
--Un navegador web moderno (Chrome, Firefox, Edge, Brave, etc.).
--Un editor de código (opcional, si deseas modificar el proyecto).
+- Un navegador web moderno (Chrome, Firefox, Edge, Brave, etc.).
+- Un editor de código (opcional, si deseas modificar el proyecto).
 
 ---
 
@@ -41,9 +41,52 @@ Este proyecto no requiere instalación. Simplemente sigue estos pasos:
    cd amigoSecretoG8
 
 3. **Abre el archivo index.html en tu navegador**:
-   -Haz doble click sobre el archivo *index.html*.
-   -O arrastra el archivo a una pestaña de tu navegador.
+   - Haz doble click sobre el archivo *index.html*.
+   - O arrastra el archivo a una pestaña de tu navegador.
 
 ---
 
 ## Imagenes del Proyecto
+
+## Estructura del Proyecto
+
+amigoSecretoG8/
+├── index.html          # Página principal del proyecto
+├── styles.css         # Estilos CSS para la interfaz
+├── script.js          # Lógica del programa en JavaScript
+├── README.md          # Documentación del proyecto
+└── assets/            # Carpeta para imágenes, íconos, etc
+
+## Cómo Contribuir
+
+1. Haz un **fork** del repositorio
+2. Crea una rama con tu nueva funcionalidad:
+   ```Bash
+   git chekout -b feature/nueva-funcionalidad
+3. Haz un commit de tus cambios:
+   ```Bash
+   git commit -m "Añade una nueva funcionalidad"
+4. Haz push en la rama:
+   ```Bash
+   git push origin feature/nueva-funcionalidad
+5. Abre un **Pull Request** y describe los cambios propuestos.
+
+## Contacto
+- **ManuRodDev42**
+- [LinkedIn](www.linkedin.com/in/manuel-rodriguez-5994b9279) 
+- [Gmail](manuelalejandrorod4220@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
