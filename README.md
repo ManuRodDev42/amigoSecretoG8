@@ -52,9 +52,13 @@ Este proyecto no requiere instalación. Simplemente sigue estos pasos:
 
 amigoSecretoG8/
 ├── index.html          # Página principal del proyecto
+
 ├── styles.css         # Estilos CSS para la interfaz
+
 ├── script.js          # Lógica del programa en JavaScript
+
 ├── README.md          # Documentación del proyecto
+
 └── assets/            # Carpeta para imágenes, íconos, etc
 
 ## Cómo Contribuir
